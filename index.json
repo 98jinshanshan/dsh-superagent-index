@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "id": "dsh-superagent-prototype",
+      "name": "DeepSeek Super-agent",
+      "version": "0.1.0",
+      "description": "DeepSeek Harness Super-agent 设计探索原型：Router+Worker 双层分派、事件驱动触发、异步 ReAct Loop、存算分离（Loop 在云/无状态容器、状态入 DB、执行环境留本机守护进程）。",
+      "targets": ["desktop", "web"],
+      "manifest_url": "https://raw.githubusercontent.com/deepseek-ai/dsh-superagent-prototype/main/package.json",
+      "checksum": "sha256:"
+    }
+  ]
+}
